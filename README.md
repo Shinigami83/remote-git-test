@@ -1,4 +1,4 @@
 remote-git-test
 ===============
 
-Test git repository
+Questa è una prova di test su come utilizzare git
